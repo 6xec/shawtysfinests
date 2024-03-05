@@ -1,6 +1,6 @@
-.body {
-    background-color: rgb(255,192,203);
-    background:linear-gradient(0deg,rgba(255,192,203) 0%,rgb(255, 46, 81) 100%);
+body {
+    background: linear-gradient(0deg, rgba(255, 46, 81, 1) 0%, rgba(255, 192, 203, 1) 100%);
+    background-color: rgb(255, 96, 122);
     height: 100vh;
     color: darkred;
 }
