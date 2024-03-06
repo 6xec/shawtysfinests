@@ -4,3 +4,27 @@ body {
     height: 100vh;
     color: darkred;
 }
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.product {
+    width: 30%;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    height: 100vh; /* Set the height of the container to 100% of the viewport height */
+}
+
+.centered-section {
+    /* Your section styles here */
+}
